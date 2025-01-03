@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd130f2655bf044aa51c50d821dc5b6, type: 3}
+  m_Name: CoockingPot
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2041840462860673177, guid: a7f8b2a6095d36d46a2a9162dbf05e99, type: 3}
+  sprite: {fileID: 21300000, guid: b77b7ccebca3a1f4a9b248f5423fb37d, type: 3}
+  objectName: CoockingPot
+  coockingRecipeSOArray:
+  - {fileID: 11400000, guid: ac0b735cb2c6c1d41be1769067e0d160, type: 2}
+  - {fileID: 11400000, guid: d2280fcfc5d636044ac69bbd90f03ad1, type: 2}

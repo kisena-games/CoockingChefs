@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &117123456678463127
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 487072972265796442}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+      propertyPath: m_Name
+      value: UniversalWater_CoockingPot_Visual
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+--- !u!4 &444345997872783740 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 613bf51a9cf8b6c418cc58e6d99fd905, type: 3}
+  m_PrefabInstance: {fileID: 117123456678463127}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4239221922659839849
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4434229590563387712, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: <KitchenObjectSO>k__BackingField
+      value: 
+      objectReference: {fileID: 11400000, guid: a804d9422994f2048b30c64f20bb370f, type: 2}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4856248035996002537, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      propertyPath: m_Name
+      value: UniversalWater_CoockingPot
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 444345997872783740}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+--- !u!4 &487072972265796442 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4329880816640891955, guid: 096b39616ce3fbf449140c928e5585db, type: 3}
+  m_PrefabInstance: {fileID: 4239221922659839849}
+  m_PrefabAsset: {fileID: 0}

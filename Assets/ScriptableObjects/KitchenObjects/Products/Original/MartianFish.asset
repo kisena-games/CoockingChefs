@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6f3aa56e64f614a82b8c11b49361cc, type: 3}
+  m_Name: MartianFish
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4753565802710849888, guid: 6fbb1e489d3b0884cb7088cf93b50a03, type: 3}
+  sprite: {fileID: 21300000, guid: cc050ac84128f604f8ed5743315f4dc5, type: 3}
+  objectName: MartianFish
